@@ -5,3 +5,9 @@ branch, while the rebase rewrites the history of one branch. A merge allows
 programmers to see individual snapshots from the original and working branch
 once they are merged. A rebase rewrites some of the history as one linear
 timeline, although it is cleaner.
+
+What is a remote repository?
+
+A remote repository the server that Github uses to store the code. When you clone
+the repository to your computer and edit it, you are using a local repository.
+
