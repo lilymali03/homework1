@@ -1,0 +1,4 @@
+What is a remote repository?
+
+A remote repository the server that Github uses to store the code. When you clone
+the repository to your computer and edit it, you are using a local repository.
